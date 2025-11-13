@@ -25,5 +25,5 @@ The app is written in a straightforward style to look like code from a fresher c
 - `public/index.html` is the static HTML
 
 ## Notes
-- The code is intentionally simple and readable.
+- The code is simple and readable.
 - For production or larger projects, consider adding better error handling and tests.
