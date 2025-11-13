@@ -26,4 +26,3 @@ The app is written in a straightforward style to look like code from a fresher c
 
 ## Notes
 - The code is simple and readable.
-- For production or larger projects, consider adding better error handling and tests.
