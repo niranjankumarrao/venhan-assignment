@@ -1,7 +1,6 @@
 # VENHAN React Flow - Freshers' Starter Project
 
 This is a simple React app that renders a dynamic diagram using React Flow.
-The app is written in a straightforward style to look like code from a fresher candidate.
 
 ## Features
 - Load nodes and edges from `src/metadata.json`
